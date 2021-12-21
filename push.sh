@@ -1,5 +1,5 @@
 git init
-git remote add origin git@github.com:lushengtao0115/museum.git
 git add .
 git commit -m 'push'
-git push -f origin master
+
+git push -f git@github.com:lushengtao0115/museum.git master # 提交到这个地址的master分支
